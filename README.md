@@ -1,7 +1,7 @@
 # SIVA
 SIVA (short for super-intelligent voice assistant) is a voice assistant that performs a variety of tasks, as well as providing general information.
 
-#To-Do
+# To-Do
 - code a barebones virtual assistant (ask question, get response)
 - Add speech-to-text, save as question
 - Send response as text-to-speech
