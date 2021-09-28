@@ -2,8 +2,7 @@
 SIVA (short for super-intelligent voice assistant) is a voice assistant that performs a variety of tasks, as well as providing general information. Heavily inspired from Tony Stark's JARVIS tool.
 
 # To-Do
-- code a barebones virtual assistant (ask question, get response)
-- add a Wi-Fi ID tool, and a callback to the virtual assistant. (if new wifi user detected, SIVA lets admin know) 
+✔️ code a barebones virtual assistant (ask question, get response)
 - add a GPS location search tool for finding people, add callback to S.I.V.A. (Codename: Dot)
 - add a Facial Recognition Tool that detects faces and converts it to names, add callback to S.I.V.A. (Codename: Adam)
 - add Youtube search tool
