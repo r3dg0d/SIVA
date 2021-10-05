@@ -15,7 +15,6 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - Prototype UI for S.I.V.A.
 - Create a UI for S.I.V.A.
 - add a 3D crime scene investigation and virtualization mode and callback to virtual assistant (Codename: Timelapse) 
-- add a hook to play Spotify music
 - create a periodic table simulation and 3D Virtualization program for S.I.V.A. that could use AI and the three forms of matter to discover new elements (Codename: Chem-4)
 - Work on making S.I.V.A. cross-platform
 - Create 3D visualization and rendering framework for generating and rendering 3D models from a query. (i.e. render a mobius strip with start and endpoints from 2019 and 2020 with important events from both years, or render a klein bottle.) - (Codename: Vision)
