@@ -22,6 +22,4 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - create a data server for S.I.V.A. as well as a backup on external storage
 - work on IoT devices and impementing S.I.V.A. into the home. Voice-activated microwave, smart fridge, toaster, sandwich maker, air fryer, dish-washer, and eventually a voice-activated Tesla bot ;P
 - Twitter hook to S.I.V.A. allowing user to tweet directly from S.I.V.A. 
-
-# Sources:
-Spotify in python: https://stackoverflow.com/questions/32309322/how-can-i-play-a-spotify-audio-with-python
+- add Spotify hook in python: https://stackoverflow.com/questions/32309322/how-can-i-play-a-spotify-audio-with-python
