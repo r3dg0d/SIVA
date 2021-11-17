@@ -27,6 +27,13 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - Make Smart glasses that have S.I.V.A. built in (EVENTUALLY WITH OWN UI/HUD, including hand/finger tracking, etc.)
 - Embed S.I.V.A. into a smartwatch
 - Make S.I.V.A. multilingual
+- Make S.I.V.A. automate basic desktop tasks
+- add Faceswap / Deepfake app for S.I.V.A.
+- add S.I.V.A. appstore
+- create documentation for developers to build their own S.I.V.A. apps
+- allow for automated discord, and VOIP calls over S.I.V.A.
+- begin adding names to contacts
+- Test each command thoroughly to see if it needs more features.
 
 # Resources:
 - ParlAI for convAI (Facebook AI team): https://www.parl.ai/
