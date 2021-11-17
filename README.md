@@ -26,6 +26,7 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - add Spotify hook in python: https://stackoverflow.com/questions/32309322/how-can-i-play-a-spotify-audio-with-python
 - Make Smart glasses that have S.I.V.A. built in (EVENTUALLY WITH OWN UI/HUD, including hand/finger tracking, etc.)
 - Embed S.I.V.A. into a smartwatch
+- Make S.I.V.A. multilingual
 
 # Resources:
 - ParlAI for convAI (Facebook AI team): https://www.parl.ai/
