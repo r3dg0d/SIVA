@@ -35,7 +35,7 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - Test each command thoroughly to see if it needs more features.
 
 # Resources:
-- ParlAI for convAI (Facebook AI team): https://www.parl.ai/
+- Blenderbot3 is dumb asf... smh... 
 - GPT-3 For Text generation software: https://openai.com/
 - Papers with code on emotional-based detection: https://paperswithcode.com/task/emotion-recognition
 - Emotional intelligence and NLP: https://nlppod.com/emotional-intelligence-nlp/
