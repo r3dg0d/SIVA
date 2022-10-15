@@ -6,10 +6,9 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - add a GPS/tag-based location search tool for finding people, add callback to S.I.V.A. (Codename: Dot)
 - add a Facial Recognition Tool that detects faces and converts it to names, add callback to S.I.V.A. (Codename: Adam)
 - add a Facial-recognition tool that detects a users face-id and uses it as a password (sorry apple.)
-- add a Laser-accurate Retina-ID System (flood-dot illuminator?) 
 - add Youtube search tool
-- add Wakeword that triggers S.I.V.A.
-- add way for S.I.V.A. to come up with answers for questions it doesn't know how to answer. (if query != known_question)
+- add Wakeword that triggers S.I.V.A. (use of snowball wakeword library?)
+- add way for S.I.V.A. to come up with answers for questions it doesn't know how to answer. (if query != known_answer then AI_Response)
 - add Duckduckgo search tool
 - add Web Scraping tool that finds relevant data on a website related to query.
 - Add recommendations for queries
