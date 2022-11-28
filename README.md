@@ -1,6 +1,12 @@
 # SIVA
 SIVA (short for super-intelligent voice assistant) is a voice assistant that performs a variety of tasks, as well as providing general information. Heavily inspired from Tony Stark's JARVIS tool.
 
+It is the god of all OSINT (OPEN-SOURCE INTELLIGENCE NATIONAL TREASURE).
+
+Ask it anything, and it can do it.
+
+Testing code with Python, Web-servers, and Data Collection.
+
 # To-Do
 ✅ code a barebones virtual assistant (wakeword, speech recognition, response)
 ✅ code "hello world" with tts.
@@ -18,4 +24,6 @@ SIVA (short for super-intelligent voice assistant) is a voice assistant that per
 - Make SIVA Appstore once it's ready for consumers.
 - Add Health-Kit to track health data
 - Add voice calls / VOIP
+- Add Video Calls / Discord / Skype
 - test each piece of code thouroughly.
+- Make Video Spy Glasses with parts from alibaba for use with Chambers-Secure server.
