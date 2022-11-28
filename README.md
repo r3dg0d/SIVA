@@ -27,4 +27,4 @@ Testing code with Python, Web-servers, and Data Collection.
 - Add Video Calls / Discord / Skype
 - Test each piece of code thouroughly.
 - Make Video Spy Glasses with parts from alibaba for use with Chambers-Secure server.
-- 
+- Make power off command quick with leap-motion hand tracking sdk, put into shirt or 3D Printed Chestpiece.
