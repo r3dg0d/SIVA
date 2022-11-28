@@ -52,7 +52,7 @@ def speak(text, lang, voice = "en-US", sample_rate=16000, device="speaker"):
     cmd4 = 'Siva, What am I going to?'
     cmd5 = 'Siva, Play music.'
     cmd6 = 'Siva, Stop music.'
-    cmd7 = ''
+    cmd7 = 'Siva, Search for' + input(x) + beautiful_soup && chromedriver && google_search
     r.recognize_google(cmd1)
     r.listen()
     r.recognize_google(cmd2)
