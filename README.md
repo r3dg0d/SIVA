@@ -19,11 +19,11 @@ Testing code with Python, Web-servers, and Data Collection.
 - Use Siri-esque TTS.
 - research large forms of data storage for SIVA's brain
 - Make a DIY Always-ON Camera, that auto-uploads footage to Chambers-Secure Server.
-- Convert video footage to 3D Animation with Nvidia / Google AI.
-- Develop for iOS
+- Convert video footage to 3D Animation with Nvidia / Google / Proprietary AI.
+- Develop for cross-platform
 - Make SIVA Appstore once it's ready for consumers.
 - Add Health-Kit to track health data
-- Add voice calls / VOIP
+- Add Voice calls / VOIP
 - Add Video Calls / Discord / Skype
 - test each piece of code thouroughly.
 - Make Video Spy Glasses with parts from alibaba for use with Chambers-Secure server.
