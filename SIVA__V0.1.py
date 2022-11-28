@@ -65,6 +65,8 @@ def speak(text, lang, voice = "en-US", sample_rate=16000, device="speaker"):
     confirm
     cmd8 = 'Siva, convert video to 3d model'
     confirm
+    cmd9 = 'Video Call' + name + location
+    confirm
     r.recognize_google(cmd1)
     r.listen()
     r.recognize_google(cmd2)
