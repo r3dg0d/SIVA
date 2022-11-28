@@ -2,8 +2,8 @@
 SIVA (short for super-intelligent voice assistant) is a voice assistant that performs a variety of tasks, as well as providing general information. Heavily inspired from Tony Stark's JARVIS tool.
 
 # To-Do
-- code a barebones virtual assistant (wakeword, speech recognition, response)
-- code "hello world" with tts.
+✅ code a barebones virtual assistant (wakeword, speech recognition, response)
+✅ code "hello world" with tts.
 - get selenium chromedriver.exe so you can automate web tasks with beautifulsoup and python
 - Add Search tool, as well as change search command
 - Add Web Scraping for [images, videos, livestreams, memes, 3D Models, social media, and text] so you can gather data and directly say it to the user.
