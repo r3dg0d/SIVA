@@ -45,14 +45,26 @@ def speak(text, lang, voice = "en-US", sample_rate=16000, device="speaker"):
     # Commands for SIVA (Super Intelligent Voice assistant)
     r.recognize_google(cmd1)
 
+    # confirm command
+    confirm = print('on it sir...')
+    
     #SIVA Home Commands
     cmd1 = 'Siva, Power on.'
+    confirm
     cmd2 = 'Siva, Power off.'
+    confirm
     cmd3 = 'Siva, What am I looking at?'
+    confirm
     cmd4 = 'Siva, What am I going to?'
+    confirm
     cmd5 = 'Siva, Play music.'
+    confirm
     cmd6 = 'Siva, Stop music.'
-    cmd7 = 'Siva, Search for' + input(x) + beautiful_soup && chromedriver && google_search
+    confirm
+    cmd7 = 'Siva, Search for' + input(x) + beautiful_soup && chromedriver && google_search && youtube
+    confirm
+    cmd8 = 'Siva, convert video to 3d model'
+    confirm
     r.recognize_google(cmd1)
     r.listen()
     r.recognize_google(cmd2)
