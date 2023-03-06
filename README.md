@@ -10,6 +10,8 @@ Testing code with Python, Web-servers, and Data Collection.
 # To-Do
 ✅ code a barebones virtual assistant (wakeword, speech recognition, response)
 ✅ code "hello world" with tts.
+- Implement OpenAI Whisper for voice interaction between agents and tts / voice input and training
+- Implement Uberduck.ai api for advanced neural text-to-speech. 
 - get selenium chromedriver.exe so you can automate web tasks with beautifulsoup and python
 - Add Search tool, as well as change search command
 - Add Web Scraping for [images, videos, livestreams, memes, 3D Models, social media, and text] so you can gather data and directly say it to the user.
@@ -28,3 +30,5 @@ Testing code with Python, Web-servers, and Data Collection.
 - Test each piece of code thouroughly.
 - Make Video Spy Glasses with parts from alibaba for use with Chambers-Secure server.
 - Make power off command quick with leap-motion hand tracking sdk, put into shirt or 3D Printed Chestpiece.
+
+Wow, AI has advanced a lot since I, the creator, r3dg0d posted this 4 months ago. Will be working on this more into the future.
