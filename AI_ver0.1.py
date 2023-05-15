@@ -1,5 +1,3 @@
-# This version of SIVA Barebones was fixed by ChatGPT with a single prompt.
-
 import pyttsx3
 import speech_recognition as sr
 import time
@@ -7,9 +5,7 @@ import random
 
 sr.__version__ = '3.8.1'
 
-print("Hello, world!")
-print("I'm SIVA, an Intelligent, Kind, and helpful information assistant.")
-print("loading code... please wait...")
+greetings = ["Hello, world!", "I'm SIVA, an Intelligent, Kind, and helpful information assistant."]
 
 def talk(text, lang="en-US", voice="en-US", sample_rate=16000, device="default"):
     engine = pyttsx3.init()
@@ -41,7 +37,7 @@ def recognize_speech():
 
 # Commands for SIVA (Super Intelligent Voice assistant)
 def run_siva():
-    talk("How can I assist you?")
+    talk(random.choice(greetings))
 
     while True:
         text = recognize_speech().lower()
@@ -74,3 +70,8 @@ def run_siva():
             break
         else:
             talk("Sorry, I did not understand what you said. Please try again.")
+
+if __name__ == "__main__":
+    run_siva()
+
+    # Google Bard AI branch
